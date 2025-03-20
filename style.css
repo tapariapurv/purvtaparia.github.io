@@ -89,3 +89,15 @@ a:hover {
 abbr {
 	text-decoration:none;
 }
+.blue-header-reading-content-fifthly {
+					color:blue;
+					font-size:20;
+					float:left;
+					margin-top:20;
+}
+blue-header-reading-content-series/anything_else {
+						color:blue;
+						font-size:25;
+						float:left;
+						margin-top:20;	
+}
