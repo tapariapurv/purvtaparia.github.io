@@ -95,9 +95,16 @@ abbr {
 					float:left;
 					margin-top:20;
 }
-blue-header-reading-content-series/anything_else {
+.blue-header-reading-content-series/anything_else {
 						color:blue;
 						font-size:25;
 						float:left;
 						margin-top:20;	
 }
+.reading-content1-div {
+			float:left;
+			border-right:1 px solid black;
+			margin-right:10px;
+			width:80%;
+}
+
